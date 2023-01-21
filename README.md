@@ -7,7 +7,7 @@ Es un instalador de ngrok modificado para terminales de distribución linux en A
 ### INSTALACIÓN
 
 ```
-apt update && apt upgrade - y
+apt update && apt upgrade -y
 
 pkg install git -y
 
@@ -18,8 +18,6 @@ cd Ngrok2023
 ls
 
 unzip ngrok.zip
-
-ls
 
 rm -rf ngrok.zip
 
