@@ -15,11 +15,25 @@ git clone https://github.com/Scorpio28-Oficial/Ngrok2023
 
 cd Ngrok2023
 
+ls
+
 unzip ngrok.zip
+
+ls
+
+rm -rf ngrok.zip
+
+ls
 
 chmod +x *.sh
 
+chmod +x *ngrok
+
+ls
+
 bash install.sh
+
+bash get-ngrok.sh
 ```
 
 #### Por ultimo colocan su authtoken.
