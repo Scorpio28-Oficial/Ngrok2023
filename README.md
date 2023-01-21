@@ -31,7 +31,7 @@ ngrok config add-authtoken 2KZYZCaa8Cfybh77Dsp7Vc268jfO_2CZEC37sjfgb7545WUY
 
 ngrok authtoken 2KZYZCaa8Cfybh77Dsp7Vc268jfO_2CZEC37sjfgb7545WUY
 
-####$ OJO ese  authtoken no existe solo es un ejemplo xd.
+#### OJO ese  authtoken no existe solo es un ejemplo xd.
 
 ##### Si ya tienen una versión anterior y no les funciona, la eliminan.
 
