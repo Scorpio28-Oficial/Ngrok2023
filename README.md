@@ -46,4 +46,4 @@ rm $PREFIX/bin/ngrok
 
 ###### By: Scorpio28
 
-<a href="https://t.me/Informatic_in_Termux">Unete a Nuestra Comunidad</a>
+<a href="https://t.me/Informatic_in_Termux">Únete a Nuestra Comunidad</a>
