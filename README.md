@@ -1,4 +1,5 @@
-# Ngrok2023 es un instalador de ngrok modificado para terminales de distribución linux en Android.
+# Ngrok2023
+Es un instalador de ngrok modificado para terminales de distribución linux en Android.
 
 ### INSTALACIÓN
 
@@ -25,14 +26,14 @@ ngrok (aquí colocan su authtoken)
 ngrok config add-authtoken 2KZYZCaa8Cfybh77Dsp7Vc268jfO_2CZEC37sjfgb7545WUY
 
 
-##$$ Chequen bien así debe queda su authtoken.
+#### Chequen bien así debe queda su authtoken.
 
 
 ngrok authtoken 2KZYZCaa8Cfybh77Dsp7Vc268jfO_2CZEC37sjfgb7545WUY
 
 ####$ OJO ese  authtoken no existe solo es un ejemplo xd.
 
-###### Si ya tienen una versión anterior y no les funciona, la eliminan.
+##### Si ya tienen una versión anterior y no les funciona, la eliminan.
 
 rm $PREFIX/bin/ngrok
 
