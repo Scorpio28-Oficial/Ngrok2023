@@ -1,4 +1,7 @@
 # Ngrok2023
+<p align="center">
+	<img src="https://i.imgur.com/XpfhdpD.jpeg" width="600px" hight="100px">
+</p>
 Es un instalador de ngrok modificado para terminales de distribución linux en Android.
 
 ### INSTALACIÓN
