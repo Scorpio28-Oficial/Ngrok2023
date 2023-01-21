@@ -44,5 +44,6 @@ rm $PREFIX/bin/ngrok
 
 #### Algo IMPORTANTE deben de crear una cuenta nueva con correo real y verificarla ingresando al correo que usaron
 
-#####$ By: Scorpio28
+###### By: Scorpio28
+
 <a href="https://t.me/Informatic_in_Termux">Unete a Nuestra Comunidad</a>
