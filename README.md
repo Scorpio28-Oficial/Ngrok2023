@@ -17,11 +17,11 @@ unzip ngrok.zip
 chmod +x *.sh
 
 bash install.sh
-
-ngrok (aquí colocan su authtoken)
 ```
 
-#### Aquí un ejemplo:
+#### Por ultimo colocan su authtoken.
+
+##### Aquí un ejemplo:
 
 ngrok config add-authtoken 2KZYZCaa8Cfybh77Dsp7Vc268jfO_2CZEC37sjfgb7545WUY
 
