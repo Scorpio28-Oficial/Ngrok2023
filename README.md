@@ -54,7 +54,7 @@ rm $PREFIX/bin/ngrok
 
 #### Y proceden paso a paso tal y como les indico.
 
-#### Algo IMPORTANTE deben de crear una cuenta nueva con correo real y verificarla ingresando al correo que usaron
+#### Algo IMPORTANTE deben de crear una cuenta nueva con un correo real y verificarla ingresando al correo que usaron
 
 ###### By: Scorpio28
 
